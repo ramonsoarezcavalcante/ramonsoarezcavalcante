@@ -28,7 +28,7 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
 <div style="display: inline_block; text-align:center;margin: auto;"><br>
   <a href="https://ramonsoarez.online/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
-
+- 🔭 I am always eager to take on complex technical challenges that will help me grow my skills and knowledge.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
