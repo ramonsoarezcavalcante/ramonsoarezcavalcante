@@ -32,7 +32,7 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
 
 <p> 💻 I’m a Full-stack developer with a bachelor's degree in information systems.</p> 
 
-  🔭 _I am always eager to take on complex technical challenges that will help me grow my skills and knowledge._ 
+  🔭 _I am passionate about solving complex technical problems. I believe that these challenges are essential for developing new skills and knowledge, and I am always eager to take them on._ 
 <hr>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
