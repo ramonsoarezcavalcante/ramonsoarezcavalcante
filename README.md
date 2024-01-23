@@ -29,19 +29,6 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
   <a href="https://ramonsoarez.online/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true" />
-</picture>
-
 🔭 _I am always eager to take on complex technical challenges that will help me grow my skills and knowledge._
 
 <div style="display: inline_block"><br>
