@@ -35,6 +35,8 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
 
   🔭 _I am passionate about solving complex technical problems. I believe that these challenges are essential for developing new skills and knowledge, and I am always eager to take them on._ 
 <hr>
+⚡  Some technologies on which I've had experience and use
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -54,6 +56,7 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
   <a href="https://discord.gg/ramonsoarez" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramon-soarez-prado-cavalcante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/RamonSorama" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://dev.to/ramonsoarez" target="_blank"><img height="29" width="80" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/8966334/ramon-soarez?tab=profile" target="_blank"><img height="29" width="120" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/8966334/ramon-soarez?tab=profile" target="_blank"><img height="26" width="125" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
+  <a href="https://dev.to/ramonsoarez" target="_blank"><img height="28" width="80" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
+  
 </div>
