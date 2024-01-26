@@ -13,7 +13,11 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<picture>
+<a href="https://github.com/ramonsoarezcavalcante">  
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&count_private=true&layout=compact&langs_count=7&count_private=true&theme=transparent"/>  
+  <img height="180rem" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=transparent"/>
+  <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=vision-friendly-dark" />
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -24,6 +28,7 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true" />
 </picture>
+</a>  
 -->
 ##
 <div style="display: inline_block; text-align:center;margin: auto;"><br>
@@ -49,10 +54,11 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 </div>
-  
+
+
 <hr>
  
-<div> 
+<div style="text-align=center"> 
   <a href="https://discord.gg/ramonsoarez" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramon-soarez-prado-cavalcante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/RamonSorama" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
@@ -60,3 +66,5 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
   <a href="https://dev.to/ramonsoarez" target="_blank"><img height="28" width="80" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
   
 </div>
+
+  <img height="180rem" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=transparent"/>
