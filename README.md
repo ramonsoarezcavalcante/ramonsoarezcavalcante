@@ -14,6 +14,8 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/ramonsoarezcavalcante">  
+  <img height="180rem" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=transparent"/>
+
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&count_private=true&layout=compact&langs_count=7&count_private=true&theme=transparent"/>  
   <img height="180rem" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=transparent"/>
   <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=vision-friendly-dark" />
@@ -67,4 +69,3 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
   
 </div>
 
-  <img height="180rem" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=transparent"/>
