@@ -76,8 +76,8 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
 <div style="text-align=center"> 
   <a href="https://www.linkedin.com/in/ramon-soarez-prado-cavalcante" target="_blank"><img  height="21" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/ramonsoarez" target="_blank"><img height="22" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/ramonsoarez" target="_blank"><img src="https://badges.aleen42.com/src/discord.svg" target="_blank"></a> 
-  <a href="https://twitter.com/RamonSorama" target="_blank"><img src="https://badges.aleen42.com/src/twitter.svg" target="_blank"></a>
+  <a href="https://discord.gg/PRDz3zDDw6" target="_blank"><img src="https://badges.aleen42.com/src/discord.svg" target="_blank"></a> 
+  <a href="https://x.com/RamonSoarezDev" target="_blank"><img src="https://badges.aleen42.com/src/twitter.svg" target="_blank"></a>
   <a href="https://stackoverflow.com/users/8966334/ramon-soarez?tab=profile" target="_blank"><img src="https://badges.aleen42.com/src/stackoverflow.svg" target="_blank"></a>
   <a href="https://t.me/ramonsoarez" target="_blank"><img src="https://badges.aleen42.com/src/telegram.svg" target="_blank"></a>
   
