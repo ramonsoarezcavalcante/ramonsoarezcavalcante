@@ -75,7 +75,7 @@ Here are some ideas to get you started:https://github.com/ramonsoarezcavalcante/
  
 <div style="text-align=center"> 
   <a href="https://www.linkedin.com/in/ramon-soarez-prado-cavalcante" target="_blank"><img  height="21" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a>
-  <a href="https://x.com/RamonSoarezDev" target="_blank"><img src="https://badges.aleen42.com/src/twitter.svg" target="_blank"></a>
+  <a href="https://x.com/RamonDeveloperX" target="_blank"><img src="https://badges.aleen42.com/src/twitter.svg" target="_blank"></a>
   <a href="https://stackoverflow.com/users/8966334/ramon-soarez?tab=profile" target="_blank"><img src="https://badges.aleen42.com/src/stackoverflow.svg" target="_blank"></a>
   <a href="https://t.me/ramonsoarez" target="_blank"><img src="https://badges.aleen42.com/src/telegram.svg" target="_blank"></a>
   <a href="https://discord.gg/PRDz3zDDw6" target="_blank"><img src="https://badges.aleen42.com/src/discord.svg" target="_blank"></a> 
