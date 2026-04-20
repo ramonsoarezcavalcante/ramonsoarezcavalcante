@@ -2,7 +2,7 @@
 **ramonsoarezcavalcante/ramonsoarezcavalcante** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Oi 👋, eu sou o Ramon Soarez</h1>
+<h1 align="center">Hi 👋, I'm Ramon Soarez</h1>
 
 <p align="center">
   <a href="https://ramonsoarez.com/" target="_blank">
@@ -11,50 +11,50 @@
 </p>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack • Bacharel em Sistemas de Informação • Pós-graduado em Ciência de Dados
+  💻 Full Stack Developer • Bachelor's in Information Systems • Postgraduate in Data Science
 </p>
 
 <p align="center">
-  🔭 Apaixonado por resolver problemas técnicos complexos. Acredito que desafios difíceis são as melhores oportunidades para aprender e crescer.
+  🔭 Passionate about solving complex technical problems. I believe challenges are the best way to develop new skills and grow as a developer.
 </p>
 
 ---
 
-### ⚡ Tecnologias e Ferramentas
+### ⚡ Technologies & Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; align-items: center;">
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=dracula&hide_border=true&border_radius=12" alt="Streak Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true&theme=dracula&hide_border=true&border_radius=12" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=12" alt="Top Languages"/>
+  <img height="190em" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=dracula&hide_border=true&border_radius=12" alt="Streak Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true&theme=dracula&hide_border=true&border_radius=12" alt="GitHub Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=12" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🌍 Vamos nos conectar?
+### 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramon-soarez-prado-cavalcante" target="_blank">
