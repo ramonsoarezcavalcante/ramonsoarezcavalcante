@@ -49,7 +49,7 @@
 <p align="center">
   <img height="190em" src="https://streak-stats.demolab.com/?user=ramonsoarezcavalcante&theme=dracula&hide_border=true&border_radius=12" alt="Streak Stats"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ramonsoarezcavalcante&show_icons=true&theme=dracula&hide_border=true&border_radius=12" alt="GitHub Stats"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=12" alt="Top Languages"/>
+ <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsoarezcavalcante&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=12" alt="Top Languages"/>-->
 </p>
 
 ---
